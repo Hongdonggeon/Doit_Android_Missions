@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mission04</string>
+    <string name="submit_msg">전송</string>
+    <string name="cancel_msg">닫기</string>
+</resources>
